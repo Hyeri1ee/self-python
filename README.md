@@ -1,0 +1,2 @@
+# self-python
+python studying
